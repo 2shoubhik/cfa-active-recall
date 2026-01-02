@@ -1,15 +1,17 @@
 # 📘 CFA Active Recall Engine
 
-An AI-powered study tool designed to help CFA candidates practice **exam-style thinking**, not passive reading.
+The CFA L2 exam is tough! Believe me, I know how brutal it can be to remember chunks of information from each of the 10 modules while managing other responsibilities in your life. 
 
-This project uses a **retrieval-augmented generation (RAG)** architecture to generate CFA-focused questions directly from official curriculum PDFs, ensuring all outputs are grounded in source material.
+As a fellow L2 candidate, I have created this fun study tool to help candidates (including myself) gear up for exam-style questions while going through the material. After not passing this exam in my initial attempt, I believe the strategy is to complement learning with practice questions throughout the duration of exam prep.
+
+This AI project uses a **retrieval-augmented generation (RAG)** architecture to generate CFA-focused questions directly from official curriculum PDFs, ensuring all outputs are grounded in source material.
 
 ---
 
 ## 🎯 Why this project exists
 
 CFA preparation is often inefficient:
-- Passive reading gives false confidence
+- Passive reading isn't enough to remember several chunks of information
 - Highlighting doesn’t expose weak areas
 - Generic question banks don’t adapt to your gaps
 
